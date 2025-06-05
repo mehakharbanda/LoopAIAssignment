@@ -1,5 +1,5 @@
 # LoopAIAssignment
-# Data Ingestion API System
+## Data Ingestion API System
 
 This project implements a simple asynchronous batch ingestion API system in Node.js using Express.
 
